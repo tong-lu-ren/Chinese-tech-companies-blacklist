@@ -1,5 +1,4 @@
-# Chinese-tech-companies-blacklist
-Chinese tech companies blacklist
+# 中资出海
 
 | Company |  Support/Cooperate | Note |Source |
 | :----------- |:----|:----| :----| 
